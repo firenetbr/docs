@@ -8,8 +8,8 @@
 
 [Architecture decision record](architect-role/architecture-decision-record.md)
 
-[Solution architect's checklist](architect-role/checklist.md)
-
 [Collaboration with the workload team](architect-role/collaboration.md)
 
 [Support the workload in a consultative role](architect-role/ongoing-support.md)
+
+[Solution architect's checklist](architect-role/checklist.md)
