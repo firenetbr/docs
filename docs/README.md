@@ -1,15 +1,15 @@
 # docs
 
-[This link](architect-role/fundamentals.md)
+[Solution architect's fundamentals](architect-role/fundamentals.md)
 
-[This link](architect-role/architecture-design-specification.md)
+[Workload architecture design specification](architect-role/architecture-design-specification.md)
 
-[This link](architect-role/design-diagrams.md)
+[Architecture design diagrams](architect-role/design-diagrams.md)
 
-[This link](architect-role/architecture-decision-record.md)
+[Architecture decision record](architect-role/architecture-decision-record.md)
 
-[This link](architect-role/checklist.md)
+[Solution architect's checklist](architect-role/checklist.md)
 
-[This link](architect-role/collaboration.md)
+[Collaboration with the workload team](architect-role/collaboration.md)
 
-[This link](architect-role/ongoing-support.md)
+[Support the workload in a consultative role](architect-role/ongoing-support.md)
